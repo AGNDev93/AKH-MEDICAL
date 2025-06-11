@@ -14,7 +14,7 @@ const Work = () => {
                 <div className="d-flex text-justify mt-4" style={{ fontSize: "18px" }}>
                     <div className="d-flex flex-column" style={{ marginRight: "20px" }}>
                         <i className="mb-5 text-decoration-underline custom-underline" style={{ color: "rgba(255, 105, 180, 0.8" }}><b>VÍA CHAT</b></i>
-                        <img className="" style={{ width: "200px", height: "160px", border: "4px solid rgba(0, 255, 255, 0.8)", borderRadius: "15px" }} src="https://blog.inconcertcc.com/wp-content/uploads/2020/09/chat-online-inconcert.jpg"></img>
+                        <img className="" style={{ width: "200px", height: "160px", border: "4px solid rgba(0, 255, 255, 0.8)", borderRadius: "15px" }} src="https://www.infobae.com/resizer/v2/FD6NXGSBKBEUBI5227CR47TN3Y.jpg?auth=d7f6d9629846232dccbb4a605daf867c0e91feab63074bc774a411fae4a4929c&smart=true&width=1200&height=1200&quality=85"></img>
                     </div>
                     <div className="d-flex flex-column" style={{ marginRight: "20px" }}>
                         <i className="mb-5 text-decoration-underline" style={{ color: "rgba(255, 105, 180, 0.8" }}><b>TELECONSULTATION</b></i>
